@@ -1,5 +1,4 @@
 # Alcoholic-Detection-System-using-Arduino-Uno-Research-Paper
-# Alcohol Detection System
 
 This GitHub repository hosts the source code and schematics for building a straightforward alcohol detector using an Arduino microcontroller and an MQ-3 sensor. With the goal of preventing drinking and driving accidents, this project provides a practical solution for monitoring alcohol levels in the immediate surroundings.
 
@@ -27,31 +26,3 @@ Contributions and feedback from the community are welcome to improve the functio
 
 Clone or fork the repository to start experimenting with the alcohol detector, contribute improvements, or explore potential applications in related fields. Join the discussion to share insights, exchange ideas, and collaborate with like-minded individuals passionate about promoting safety and responsibility. Together, we can make a difference in preventing alcohol-related accidents and protecting lives.
 
-## Uploading Code to Arduino Uno
-
-Follow these steps to upload the code to an Arduino Uno:
-
-1.**Dowload:** Download and install Arduino IDE. [Software Link](https://www.arduino.cc/en/software)
-
-2. **Download the code:** Clone or download the repository to your local machine.
-   
-3. **Open the code:** Copy or open the `.ino` file in the Arduino IDE.
-   
-4. **Connect the Arduino Uno:** Connect the Arduino Uno board to your system or laptop using a USB cable.
-  
-5. **Select the board type:** In the Arduino IDE, navigate to `Tools` > `Board` and select `Arduino Uno`.
-   
-6. **Verify the code:** Click on the verify button (checkmark icon) to check for any errors in the code.
-    
-7. **Upload the code:** Once verified, click on the upload button (right arrow icon) to upload the code to the Arduino Uno board.
- 
-8. **Disconnect and connect components:** After uploading the code successfully, disconnect the Arduino Uno board from your system and connect the components according to the schematics provided in the repository.
-
-## Circuit Diagram 
-
-This is the Circuit Diagram connect all other components as shown in the picture.
-
-![image](https://github.com/ManojKumar1603/Alcoholic-Detection-System-using-Arduino-Uno-Research-Paper/assets/122170545/dcd06105-5c7c-447e-86fd-5335030a7dc7)
-
-
-![image](https://github.com/ManojKumar1603/Alcoholic-Detection-System-using-Arduino-Uno-Research-Paper/assets/122170545/268e7d94-b708-4468-9e37-e9e271f18e6b)
