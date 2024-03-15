@@ -32,12 +32,19 @@ Clone or fork the repository to start experimenting with the alcohol detector, c
 Follow these steps to upload the code to an Arduino Uno:
 
 1.**Dowload:** Download and install Arduino IDE. [Software Link](https://www.arduino.cc/en/software)
+
 2. **Download the code:** Clone or download the repository to your local machine.
+   
 3. **Open the code:** Copy or open the `.ino` file in the Arduino IDE.
+   
 4. **Connect the Arduino Uno:** Connect the Arduino Uno board to your system or laptop using a USB cable.
+  
 5. **Select the board type:** In the Arduino IDE, navigate to `Tools` > `Board` and select `Arduino Uno`.
+   
 6. **Verify the code:** Click on the verify button (checkmark icon) to check for any errors in the code.
+    
 7. **Upload the code:** Once verified, click on the upload button (right arrow icon) to upload the code to the Arduino Uno board.
+ 
 8. **Disconnect and connect components:** After uploading the code successfully, disconnect the Arduino Uno board from your system and connect the components according to the schematics provided in the repository.
 
 ## Circuit Diagram 
